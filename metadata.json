@@ -1,0 +1,5 @@
+{
+  "name": "Safe Park",
+  "description": "A peer-to-peer platform connecting campervan owners with private parking spaces. Features AI-powered listing descriptions and smart semantic search.",
+  "requestFramePermissions": []
+}
